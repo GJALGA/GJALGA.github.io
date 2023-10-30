@@ -1,6 +1,7 @@
 # [Numele Tău]
 ![total_station](/assets/img/roto.jpg)
 
+[Afla_mai_multe_aici:](about_me.md)
 ## Student la Facultatea de Geodezie | Dezvoltator Web Amator
 
 Bine ai venit pe pagina mea de internet de portofoliu! Sunt [Numele Tău], un student pasionat de Geodezie cu o dragoste pentru dezvoltarea web. Aici vei găsi o prezentare a experienței și a proiectelor mele.
