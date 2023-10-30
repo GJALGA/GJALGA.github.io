@@ -1,5 +1,5 @@
 # [Numele Tău]
-![total_station](/assets/img/porte.png)
+![total_station](/assets/img/roto.jpg)
 
 ## Student la Facultatea de Geodezie | Dezvoltator Web Amator
 
