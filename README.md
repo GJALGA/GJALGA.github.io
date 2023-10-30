@@ -1,1 +1,0 @@
-# GJALGA.github.io
