@@ -1,5 +1,5 @@
 # Cateva info suplimentare 
 
-am boala copiilor , si a lui calache , de la balaceanca 
+roman
 
 ![total_station](/assets/img/ll.jpg)
