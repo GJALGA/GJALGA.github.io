@@ -1,8 +1,6 @@
 title: Exmplu de Titlu
 show_downloads: false
-logo: /assets/css/images/portret.png
-description: My Image
-
+logo: /assets/img/porte.png
 github:
 is_user_page: true
 is_project_page: false
